@@ -20,8 +20,8 @@ setuptools.setup(
     author="1%Club Developers",
     author_email="devteam@onepercentclub.com", 
     install_requires=[
-        'Django==1.10.2',
-        'django-salesforce==0.6.3',
+        'Django==1.10.7',
+        'django-salesforce==0.7.2',
     ],
     tests_require=[
         'factory-boy==2.3.1',
